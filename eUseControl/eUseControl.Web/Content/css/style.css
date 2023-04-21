@@ -35,13 +35,13 @@ body {
     
 }
 :root {
-    --primary-color: #f44336;
-    --secondary-color: #000000;
+    --primary-color: #000000;
+    --secondary-color: #ffffff;
 }
 
 .dark-theme {
-    --primary-color: #888888;
-    --secondary-color: #ffffff;
+    --primary-color: #ffffff;
+    --secondary-color: #000000;
 }
 
 body {
